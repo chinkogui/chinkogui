@@ -1,12 +1,11 @@
 
-# Olá pessoas 👋
-![](https://media.giphy.com/media/vVtI6TVa5qf7i/giphy.gif)
+# Olá pessoas, eu sou o Guilherme Chinko <img src="https://user-images.githubusercontent.com/43765331/143767552-9dc01b06-361f-4a31-babc-3ceed7eabc7d.gif" width="30px" /> <img src="https://user-images.githubusercontent.com/43765331/143767688-7cecab99-70cd-4741-8e5e-35e8778d771b.gif" width="30px" />
+<img align="right" src="https://user-images.githubusercontent.com/43765331/143768232-4433b669-f932-4fc5-8f9a-239a8c8ae367.png" />
 
-Sou **Guilherme** mas todo mundo acaba me chamando de **Chinko** ✌️ <br/>
-Sou formado em **Engenharia de Computação** pela ![unisantanna](https://user-images.githubusercontent.com/43765331/108933003-1865e600-7629-11eb-8229-4706577a8d98.png) [UniSant'Anna](https://unisantanna.br) <br/>
-Atualmente sou **Dev. Full Stack** na ![dc56a76f94436c5e1ce763e6fa236309_25x25](https://user-images.githubusercontent.com/43765331/108931853-2286e500-7627-11eb-9174-2a3b40ab4170.png)     [Zenvia](http://zenvia.com) <br/>
-Curto tecnologias, games e sou apaixonado por astronomia 🚀🌌🔭 <br/>
-~~Odeio Java~~
+- <img src="https://user-images.githubusercontent.com/43765331/143768719-962fe258-067f-40e7-a64b-54ee135941f8.png" width="15px" /> Meu nome é Guilherme, mas todo mundo me chama de **Chinko**
+- 🖥️ Sou formado em Engenharia da Computação
+- 📚 Atualmente sou Desenvolvedor Pleno na Zenvia Mobile
+- 🔭 Curto tecnologias, games e sou apaixonado por astronomia
 
 Minhas tecnologias e ferramentas preferidas:
 
